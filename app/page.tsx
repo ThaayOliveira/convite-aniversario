@@ -7,7 +7,7 @@ export default function Home() {
       <main className="max-w-md mx-auto p-4 text-center">
         {/* Convite */}
         <img
-          src="/convite.png"
+          src="/convite2.png"
           alt="Convite de aniversário"
           className="w-full mb-6 rounded-lg"
         />
