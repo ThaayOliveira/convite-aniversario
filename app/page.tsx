@@ -3,7 +3,7 @@ import { ThemeToggle } from "./components/theme-toggle";
 export default function Home() {
   return (
     <>
-      {/* <ThemeToggle /> */}
+      <ThemeToggle />
       <main className="max-w-md mx-auto p-4 text-center">
         {/* Convite */}
         <img
